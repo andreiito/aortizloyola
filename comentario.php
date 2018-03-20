@@ -12,7 +12,7 @@
 	<form action="guarda_cometario.php" method="post">
 		<p>Nombre</p><input type="text" name="nombre"/><br/>
 		<p>Correo</p><input type="text" name="correo"/><br/>
-		<p>Comentario</p><textarea rows="4" cols="50" name="coment"></textarea><br/>
+		<p>Comentario</p><textarea rows="4" cols="50" name="comentario"></textarea><br/>
 		<button type="submit">Enviar</button>
 	</form>
 
